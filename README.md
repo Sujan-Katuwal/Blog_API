@@ -1,3 +1,6 @@
+Blog API is built using Flask and SQLite as the database. It supports user registration, login, and logout with JWT authentication, storing user and blog data in the database. Features include creating, updating, deleting, and viewing blog posts with proper authorization, along with pagination for efficiently displaying multiple blogs.
+
+
 **Test API using Postman**
 
 Add the base URL of your API (e.g., http://127.0.0.1:5000)
