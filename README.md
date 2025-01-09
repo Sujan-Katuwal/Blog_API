@@ -92,7 +92,7 @@ Add the base URL of your API (e.g., http://127.0.0.1:5000)
 **Get All Blogs in homepage With Pagination**
     Endpoint: GET /homepage
     Method: GET
-    URL: http://127.0.0.1:5000/homepage?page=1&per_page=3
+    URL: http://127.0.0.1:5000/homepage?page=1&per_page=3, The default page is 1 and per_gage is 3.
     
     Expected Response:
         {
